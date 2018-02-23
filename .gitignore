@@ -1,0 +1,12 @@
+.gradle/
+apps-home/
+artefacts/
+build/
+classes/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+out/
+.DS_Store
